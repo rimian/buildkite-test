@@ -1,0 +1,13 @@
+{
+  "name": "buildkite-test",
+  "private": false,
+  "version": "0.0.1",
+  "repository": "git@github.com:rimian/buildkite-test.git",
+  "scripts": {
+    "build": "./bin/webpack"
+  },
+  "dependencies": {
+    "webpack": "^4.46.0"
+  },
+  "packageManager": "yarn@3.1.1"
+}
